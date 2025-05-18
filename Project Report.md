@@ -21,10 +21,8 @@ The dataset was obtained using the Kaggle API, which allows for efficient and au
 b. Data Processing and Cleaning
 Python & pandas: Applied to clean the data by:
 
-Handling missing values.
-
-Normalizing data formats.
-
+Handling missing values,
+Normalizing data formats,
 Removing duplicates.
 
 c. Data Loading
@@ -32,6 +30,7 @@ The cleaned dataset was imported into SQL Server, ensuring structured storage an
 
 d. Data Analysis
 SQL Queries: Executed complex SQL queries to:
+
 Aggregate data,
 Identify trends,
 Generate insights for decision-making.
@@ -60,7 +59,7 @@ Orders.ipynb: Jupyter Notebook containing Python code for data processing and an
 
 Data_Analysis.sql: SQL script with queries for data analysis.
 
-README.md: Documentation providing report of the project.
+Project Report.md: Documentation providing report of the project.
 
 7. Conclusion:
    
