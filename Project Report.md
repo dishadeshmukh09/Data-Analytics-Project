@@ -3,7 +3,7 @@
  
 This project demonstrates a complete data analytics pipeline, encompassing data acquisition, processing, storage, and analysis. The primary objective is to showcase proficiency in handling real-world datasets, performing data cleaning, and deriving actionable insights using Python and SQL.
 
-3. Technologies Used:
+2. Technologies Used:
    
 Python: Utilized for data processing and analysis.
 
