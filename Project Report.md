@@ -32,8 +32,8 @@ The cleaned dataset was imported into SQL Server, ensuring structured storage an
 
 d. Data Analysis
 SQL Queries: Executed complex SQL queries to:
-Aggregate data.
-Identify trends.
+Aggregate data,
+Identify trends,
 Generate insights for decision-making.
 
 4. Key Features:
